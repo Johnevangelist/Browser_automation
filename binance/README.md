@@ -31,9 +31,10 @@ pip install --upgrade pip wheel setuptools
 13. note that each thread checks one mail so if you even want to increase the speed with minimal coding than set one rotating proxy with 3 to 5 tabs per broswer then it will check 3 to 5 mails for one threads so if you are running 48 threads with 3 tabs per broswer then it will check 144 mails at a time and the timeout is averagly 10 seconds, it completely depends on your pc and you can make this edits in config.py if you remove threads section from main.py which is set according to your pc core but make sure to increase the threads slowly when doing it manually otherwise you may see your pc hanging up and smoke coming out of it 
 14. if you are running "Headless=False" for debuging make sure you are using 2 to 3 mails for testing because for "headless=False"
 each chromium browser uses 2MB of your bandwidth so if you keep running multiple number of mails while debuging then you can say goodbye to your proxy bandwidth 
-15. if you still face any issues regarding the tool feel free to reach me @nonvenomouas :D , but if you face any issues while hooking the captcha solver then it's your provider problem or problem with capsolver implimentation
+15. if you still face any issues regarding the tool feel free to reach me @Johnevangelist :D , but if you face any issues while hooking the captcha solver then it's your provider problem or problem with capsolver implimentation
 
 
 ## Credits
 
-Made by @nonvenmous aka the sigma boy.
+Made by @JohnEvangelist on 09/24
+made only for educational purpose not for any misuse of this tool 
